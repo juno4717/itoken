@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://192.168.57.133:8888
       name: itoken-zipkin
       label: master
       profile: dev
